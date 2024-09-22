@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/35b105e9-e7c5-459f-83db-27fc34e93c3c)
+
 # Llama Driver Updater: Efficient and Resource-Friendly
 
 **Llama Driver Updater** is a smart and user-friendly application designed to keep your PC’s drivers up-to-date effortlessly. It scans for outdated, missing, or corrupt drivers and updates them with a single click. The best part? Llama Driver Updater does not run in the background, meaning your system’s resources are preserved for tasks that matter.
